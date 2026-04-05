@@ -1,4 +1,4 @@
-package multithreading.producerProblem;
+package com.vivek.multithreading.producerProblem;
 
 
 import java.util.concurrent.ArrayBlockingQueue;

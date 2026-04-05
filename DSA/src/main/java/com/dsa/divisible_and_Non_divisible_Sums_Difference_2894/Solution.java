@@ -1,4 +1,4 @@
-package divisible_and_Non_divisible_Sums_Difference_2894;
+package com.dsa.divisible_and_Non_divisible_Sums_Difference_2894;
 
 public class Solution {
     public static void main(String[] args) {

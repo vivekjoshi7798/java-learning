@@ -1,4 +1,4 @@
-package number.odd;
+package com.vivek.number.odd;
 
 
 import java.util.Arrays;

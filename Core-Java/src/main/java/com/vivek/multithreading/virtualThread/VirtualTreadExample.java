@@ -1,4 +1,4 @@
-package multithreading.virtualThread;
+package com.vivek.multithreading.virtualThread;
 /*
 *Goal: Understand how a virtual thread is created and scheduled.
 

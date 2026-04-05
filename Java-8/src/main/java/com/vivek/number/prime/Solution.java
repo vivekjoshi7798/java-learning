@@ -1,4 +1,4 @@
-package number.prime;
+package com.vivek.number.prime;
 
 import java.util.List;
 import java.util.Map;

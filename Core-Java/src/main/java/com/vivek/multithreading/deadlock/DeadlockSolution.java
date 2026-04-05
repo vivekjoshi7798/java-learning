@@ -1,4 +1,4 @@
-package multithreading.deadlock;
+package com.vivek.multithreading.deadlock;
 
 class SharedResource{
 

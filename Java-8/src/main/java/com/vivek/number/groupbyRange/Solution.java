@@ -1,4 +1,4 @@
-package number.groupbyRange;
+package com.vivek.number.groupbyRange;
 
 import java.util.Comparator;
 import java.util.LinkedHashMap;

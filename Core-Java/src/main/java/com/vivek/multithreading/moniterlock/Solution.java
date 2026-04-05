@@ -1,4 +1,4 @@
-package multithreading.moniterlock;
+package com.vivek.multithreading.moniterlock;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

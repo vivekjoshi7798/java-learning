@@ -1,4 +1,4 @@
-package stringoperations;
+package com.vivek.stringoperations;
 
 import java.util.Arrays;
 import java.util.Comparator;

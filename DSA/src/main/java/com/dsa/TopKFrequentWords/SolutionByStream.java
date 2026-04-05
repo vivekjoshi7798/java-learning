@@ -1,4 +1,4 @@
-package TopKFrequentWords;
+package com.dsa.TopKFrequentWords;
 
 import java.util.*;
 import java.util.function.Function;

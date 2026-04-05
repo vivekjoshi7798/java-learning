@@ -1,4 +1,4 @@
-package rotate_array_1;
+package com.dsa.rotate_array_1;
 
 public class Solution2 {
 

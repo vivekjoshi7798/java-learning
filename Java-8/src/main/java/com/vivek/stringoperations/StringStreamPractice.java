@@ -1,4 +1,4 @@
-package stringoperations;
+package com.vivek.stringoperations;
 
 import java.util.*;
 import java.util.function.Function;

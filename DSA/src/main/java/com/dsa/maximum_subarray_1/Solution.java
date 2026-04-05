@@ -1,4 +1,4 @@
-package maximum_subarray_1;
+package com.dsa.maximum_subarray_1;
 /*
 How Kadane's Algorithm Works
 

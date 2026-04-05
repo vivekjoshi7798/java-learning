@@ -1,4 +1,4 @@
-package tweets;
+package com.vivek.tweets;
 
 import java.util.List;
  class User {

@@ -1,4 +1,4 @@
-package multithreading.countdownlatch;
+package com.vivek.multithreading.countdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 

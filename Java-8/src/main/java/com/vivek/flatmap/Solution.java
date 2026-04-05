@@ -1,4 +1,4 @@
-package flatmap;
+package com.vivek.flatmap;
 
 import java.util.*;
 import java.util.stream.Collectors;

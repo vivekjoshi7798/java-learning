@@ -1,4 +1,4 @@
-package number.even;
+package com.vivek.number.even;
 
 import java.util.List;
 import java.util.stream.IntStream;

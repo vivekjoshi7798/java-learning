@@ -7,11 +7,21 @@
     <groupId>com.vivek</groupId>
     <artifactId>java-learning</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>pom</packaging>
+    <modules>
+        <module>Java-8</module>
+        <module>Design-Pattern</module>
+        <module>DSA</module>
+        <module>JAVA-11</module>
+        <module>Core-Java</module>
+        <module>Interview-Question</module>
+        <module>Java-17</module>
+        <module>Java-21</module>
+    </modules>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    
+
 </project>

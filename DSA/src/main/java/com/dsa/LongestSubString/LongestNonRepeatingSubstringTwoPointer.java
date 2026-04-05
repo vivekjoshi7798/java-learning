@@ -1,4 +1,4 @@
-package LongestSubString;
+package com.dsa.LongestSubString;
 
 import java.util.Arrays;
 

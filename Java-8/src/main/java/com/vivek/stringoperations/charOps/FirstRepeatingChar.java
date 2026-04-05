@@ -1,4 +1,4 @@
-package stringoperations.charOps;
+package com.vivek.stringoperations.charOps;
 
 import java.util.LinkedHashMap;
 import java.util.function.Function;

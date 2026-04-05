@@ -1,4 +1,4 @@
-package multithreading.ThreadLocal;
+package com.vivek.multithreading.ThreadLocal;
 
 class SharedResourceThreadLocal {
 

@@ -1,4 +1,4 @@
-package nextGreaterElement;
+package com.dsa.nextGreaterElement;
 
 import java.util.Stack;
 import java.util.Arrays;

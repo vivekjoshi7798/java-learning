@@ -1,4 +1,4 @@
-package LongestSubString;
+package com.dsa.LongestSubString;
 
 class Soution{
 

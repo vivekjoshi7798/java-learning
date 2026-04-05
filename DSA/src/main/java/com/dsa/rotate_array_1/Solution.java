@@ -1,4 +1,4 @@
-package rotate_array_1;
+package com.dsa.rotate_array_1;
 
 import static java.util.Collections.swap;
 

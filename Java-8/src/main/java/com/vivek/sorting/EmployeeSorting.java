@@ -1,4 +1,4 @@
-package sorting;
+package com.vivek.sorting;
 
 import java.util.*;
 import java.util.stream.Collectors;

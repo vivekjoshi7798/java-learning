@@ -1,4 +1,4 @@
-package multithreading.cyclicbarrier;
+package com.vivek.multithreading.cyclicbarrier;
 
 /*
 * CyclicBarrier allows a group of threads to wait for each other at a common point and automatically resets after all threads reach the barrier.

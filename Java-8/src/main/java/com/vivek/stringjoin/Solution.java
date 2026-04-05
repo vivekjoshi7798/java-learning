@@ -1,4 +1,4 @@
-package stringjoin;
+package com.vivek.stringjoin;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

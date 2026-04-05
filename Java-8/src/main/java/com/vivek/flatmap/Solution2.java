@@ -1,4 +1,4 @@
-package flatmap;
+package com.vivek.flatmap;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -145,6 +145,11 @@ public class Solution2 {
         Customer c1 = new Customer("Vivek", List.of(order1, order2));
         Customer c2 = new Customer("Rahul", List.of(order3));
 
+            List<Customer> customers = List.of(c1,c2);
+
+        System.out.println("******************  List Item ********************************");
+        List<Item> items= customers.stream().flatMap(s->s.getOrders().stream())
+                .flatMap(s->s.getItems().stream()).toList();
 
         
     }

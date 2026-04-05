@@ -1,4 +1,4 @@
-package multithreading.lock;
+package com.vivek.multithreading.lock;
 
 import java.time.format.DateTimeFormatter;
 

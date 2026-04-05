@@ -1,4 +1,4 @@
-package multithreading.lock;
+package com.vivek.multithreading.lock;
 /*
 You are working on a payment processing service.
 

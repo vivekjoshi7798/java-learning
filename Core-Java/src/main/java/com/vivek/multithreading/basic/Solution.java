@@ -1,4 +1,4 @@
-package multithreading.basic;
+package com.vivek.multithreading.basic;
 
 class OwnThread extends Thread{
     @Override
