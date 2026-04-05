@@ -151,6 +151,8 @@ public class Solution2 {
         List<Item> items= customers.stream().flatMap(s->s.getOrders().stream())
                 .flatMap(s->s.getItems().stream()).toList();
 
+        System.out.println("Items: " + items);
+
         
     }
 }
